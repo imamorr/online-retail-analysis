@@ -1,4 +1,4 @@
-# analysis_project
+# online-retail-analysis
 
 ## Разбор ключевых обозначений в столбцах
 В столбце 'StockCode' есть товары с кодом 'POST', 'D', 'C2', 'DOT', 'M', 'S', 'm', 'PADS', 'B', 'CRUK', 'BANK CHARGES', 'AMAZONFEE', которые влияют на общую выручку, но не относятся к продажам определенных товаров.
